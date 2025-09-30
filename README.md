@@ -97,5 +97,5 @@ The analysis combines **descriptive statistics** and **machine learning** techni
 ## Author
 
 **Timothée Balland**  
-BBA3 Student, EDHEC Business School  
+UTC Compiègne/EDHEC Business School  
 GitHub: [https://github.com/Timothee-Balland](https://github.com/Timothee-Balland)
